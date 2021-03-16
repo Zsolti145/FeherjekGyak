@@ -1,0 +1,13 @@
+Nev;Feherje
+Búzacsíra;25
+Búzadara;9,4
+Búzakorpa;15
+Búzaliszt(főző);13,5
+Búzamag, búzaliszt, teljes;14,4
+Köles, hántolt;11
+Kukoricaliszt, kukoricadara;9,6
+Kukoricapehely;7,7
+Rizs, hántolt;8
+Rizsliszt;6,9
+Zabpehely;14,4
+Zsemlemorzsa;10,2

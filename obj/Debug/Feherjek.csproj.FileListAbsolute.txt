@@ -1,0 +1,8 @@
+C:\Users\zsolt\Desktop\Feherjék\Feherjek\Feherjek\bin\Debug\feherjek.txt
+C:\Users\zsolt\Desktop\Feherjék\Feherjek\Feherjek\bin\Debug\Feherjek.exe.config
+C:\Users\zsolt\Desktop\Feherjék\Feherjek\Feherjek\bin\Debug\Feherjek.exe
+C:\Users\zsolt\Desktop\Feherjék\Feherjek\Feherjek\bin\Debug\Feherjek.pdb
+C:\Users\zsolt\Desktop\Feherjék\Feherjek\Feherjek\obj\Debug\Feherjek.csprojAssemblyReference.cache
+C:\Users\zsolt\Desktop\Feherjék\Feherjek\Feherjek\obj\Debug\Feherjek.csproj.CoreCompileInputs.cache
+C:\Users\zsolt\Desktop\Feherjék\Feherjek\Feherjek\obj\Debug\Feherjek.exe
+C:\Users\zsolt\Desktop\Feherjék\Feherjek\Feherjek\obj\Debug\Feherjek.pdb
